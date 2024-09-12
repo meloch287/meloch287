@@ -32,4 +32,4 @@
 
 ---
 
-*Created from ❤️ and GitHub.
+* ❤️ GitHub
