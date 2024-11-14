@@ -16,7 +16,7 @@
 
 ### 🛠️ Technology Stack:
 - Frontend: HTML, CSS, JavaScript (React, Redux)
-- Backend: Node.js, Express, Python (Django)
+- Backend: Python (Django)
 - Databases: PostgreSQL, MongoDB
 
 ### 📈 GitHub stats:
