@@ -11,7 +11,6 @@
 
 ### 🚀 About me:
 - 🖥️ Full-Stack developer with experience in web application development.
-- 🌍 I love open source technologies and participating in open-source projects.
 - 🏆 Goals: Improve my skills in DevOps and cloud technologies.
 
 ### 🛠️ Technology Stack:
