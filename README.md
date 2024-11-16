@@ -14,7 +14,7 @@
 - 🏆 Goals: Improve my skills in DevOps and cloud technologies.
 
 ### 🛠️ Technology Stack:
-- Frontend: HTML, CSS, JavaScript (React, Redux)
+- Frontend: HTML, CSS, JavaScript
 - Backend: Python (Django)
 - Databases: PostgreSQL, MongoDB
 
