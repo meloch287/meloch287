@@ -7,16 +7,11 @@
 
 
 ---
-### Hi, my name is Alexander! 👋
+### Hi, my name is Alexander! 
 
-### 🚀 About me:
-- 🖥️ Full-Stack developer with experience in web application development.
-- 🏆 Goals: Improve my skills in DevOps and cloud technologies.
-
-### 🛠️ Technology Stack:
+### 🛠️ My Technology Stack:
 - Frontend: HTML, CSS, JavaScript
-- Backend: Python (Django)
-- Databases: PostgreSQL, MongoDB
+- Backend: Python
 
 ### 📈 GitHub stats:
 ![aleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meloch287&show_icons=true&theme=radical)
