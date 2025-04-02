@@ -13,10 +13,6 @@
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python
 
-### 📈 GitHub stats:
-![aleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meloch287&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meloch287&layout=compact&theme=radical)
-
 ### 📫 Contact me:
 
 
