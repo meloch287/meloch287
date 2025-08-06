@@ -16,7 +16,7 @@
 ### 📫 Contact me:
 
 
-  <a href="https://t.me/jokessssv">
+  <a href="https://t.me/Citrus_sd">
     <img src="https://img.shields.io/badge/Telegram%20-%20blue?logo=Telegram&logoColor=white&color=blue" alt="LinkedIn Badge"/>
   </a>
 
