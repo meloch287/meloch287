@@ -7,12 +7,17 @@
 
 
 ---
-### Hi, my name is Alexander! 
 
 ### 🛠️ My Technology Stack:
-- Frontend: HTML, CSS, JavaScript
-- Backend: Python
 
+- Backend: Python | Django | Flask | FastAPI | REST API | SQLAlchemy | PostgreSQL | SQLite | JWT Authentication | PyTest
+
+- Frontend: HTML | CSS | JS
+
+- Tools & DevOps: Git | Docker | Linux | CI/CD | Virtualenv / Poetry
+
+- Extras: Celery | Redis | Nginx / Gunicorn / Uvicorn
+---
 ### 📫 Contact me:
 
 
